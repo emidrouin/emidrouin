@@ -1,7 +1,7 @@
 title: Emilie Drouin
 description: Carnet de doctorat et de recherche
 url: "localhost:4000"
-baseurl: "/emidrouin"
+baseurl: ""
 
 markdown: kramdown
 
