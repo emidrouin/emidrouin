@@ -1,0 +1,24 @@
+title: Emilie Drouin
+description: Carnet de doctorat et de recherche
+url: "localhost:4000"
+baseurl: "/emidrouin"
+
+markdown: kramdown
+
+tracking_id: #
+github_username: emidrouin
+orcid:  https://orcid.org/0000-0001-6336-5312
+
+footer: yes
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "à propos"
+   link: "/emidrouin/"
+ - name: "thèse"
+   link: "these"
+ - name: "CV"
+   link: "cv"
