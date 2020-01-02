@@ -1,7 +1,7 @@
 title: Emilie Drouin
 description: Carnet de doctorat et de recherche
-url: "https://emidrouin.ca"
-baseurl: "/emidrouin"
+url: "http://emidrouin.ca/"
+baseurl: ""
 
 markdown: kramdown
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "à propos"
-   link: "/emidrouin/"
+   link: "/"
  - name: "thèse"
    link: "these"
  - name: "CV"
