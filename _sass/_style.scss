@@ -12,6 +12,7 @@ html {
 body {
     margin: 0;
     font-family: 'Muli', sans-serif;
+    margin-left: 100px;
     height: 100%;
 }
 p {
@@ -25,13 +26,13 @@ p {
 }
 code {
     font: normal normal;
-    font-size: 90%;
+    font-size: 85%;
     font-family: 'Anonymous Pro', monospace;
     color: #AAAAAA;
 }
 p code {
     position: absolute;
-    left: -20%;
+    left: -100px;
 }
 ul {
     list-style: none;
@@ -102,10 +103,10 @@ hr {
 /* Mobile */
 
 @media (max-width: 800px) {
-    .container {
+  .container {
         max-width: $med-width;
         transition: 0.3s ease all;
-    }
+   }
 }
 
 @media (max-width: 650px) {
@@ -114,6 +115,10 @@ hr {
     }
     .navbar-ul {
         margin-top: 5px;
+    }
+    p code {
+      visibility: hidden;
+      display: none;
     }
 }
 
@@ -129,6 +134,7 @@ hr {
 	#navlist {
 		padding: 10px 0 10px 0;
 		margin: 0;
+    margin-left: 0px;
 		display: block;
 		float: none;
 		text-align: center;
