@@ -19,6 +19,6 @@ nav:
  - name: "à propos"
    link: "/"
  - name: "thèse"
-   link: "these"
+   link: "these.md"
  - name: "CV"
-   link: "cv"
+   link: "cv.md"

@@ -8,7 +8,7 @@ layout: default
 **Doctorat en littératures de langue française** (*Ph.D.*), en cours  
 Université de Montréal  
 - *Les enfants de langage. L’énonciation individuelle comme moteur d’altérité de soi dans le roman québécois* (directrice de recherche: Martine-Emmanuelle Lapointe)  
-Résumé du [projet de thèse](these)  
+Résumé du [projet de thèse](these.md)  
 
 `2014-2017`
 **Maîtrise en littératures de langue française** (*M.A.*)  
