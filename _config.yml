@@ -1,7 +1,7 @@
 title: Emilie Drouin
 description: Carnet de doctorat et de recherche
 url: "http://emidrouin.ca/"
-baseurl: "/emidrouin"
+baseurl: ""
 
 markdown: kramdown
 
