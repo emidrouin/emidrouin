@@ -79,3 +79,7 @@ Membre du comité scientifique
 **Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard* et table-ronde *Du texte à la scène***, CRILCQ, Université de Montréal, 6 juin 2019.  
 Co-organisation (scientifique et événementielle)  
 - Programme disponible [en ligne](http://www.crilcq.org/actualites/item/journee-detude-a-lentour-de-lentour-dherve-bouchard/)
+
+---
+
+- <img class="logo-picture" src="orcid.gif" alt="Orcid Logo"> Orcid: [0000-0001-6336-5312](https://orcid.org/0000-0001-6336-5312)

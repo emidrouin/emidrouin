@@ -16,7 +16,3 @@ Mes [travaux](cv.md) portent sur l'**enfance dans le roman québécois** contemp
 
 ### Autres intérêts
 J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, un grand intérêt pour le numérique. J'ai, au fil du temps, des expériences et des lectures, développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, sécurité informatique et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
-
----
-
-- <img class="logo-picture" src="orcid.gif" alt="Orcid Logo"> Orcid: [0000-0001-6336-5312](https://orcid.org/0000-0001-6336-5312)
