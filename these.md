@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Projet de thèse | Emilie Drouin
 ---
 
 ## Les enfants de langage

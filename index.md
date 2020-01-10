@@ -15,4 +15,4 @@ Mes [travaux](cv.md) portent sur l'**enfance dans le roman québécois** contemp
 ---
 
 ### Autres intérêts
-J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, un grand intérêt pour le numérique. J'ai, au fil du temps, des expériences et des lectures, développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, sécurité informatique et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
+J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, un grand intérêt pour le numérique. J'ai, au fil du temps, des [expériences](https://github.com/emidrouin/memoire) et des lectures, développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, sécurité inf[o](https://ctf.ageei.uqam.ca/team/38)rmatique et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.

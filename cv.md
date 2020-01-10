@@ -1,6 +1,5 @@
 ---
 layout: default
-title: CV | Emilie Drouin
 ---
 
 ## Parcours académique
