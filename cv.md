@@ -1,5 +1,6 @@
 ---
 layout: default
+title: CV | Emilie Drouin
 ---
 
 ## Parcours académique
@@ -35,6 +36,20 @@ Université de Montréal, *Mineure en études québécoises*
 
 ---
 
+## Implications
+
+`2019-`
+***Fémur*, revue étudiante de critique littéraire de l'Université de Montréal**  
+Membre du comité scientifique
+- Site de la [revue](https://revuefemur.com/)
+
+`2019`
+**Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard* et table-ronde *Du texte à la scène***, CRILCQ, Université de Montréal, 6 juin 2019.  
+Co-organisation (scientifique et événementielle)  
+- Programme disponible [en ligne](http://www.crilcq.org/actualites/item/journee-detude-a-lentour-de-lentour-dherve-bouchard/)
+
+---
+
 ## Publications
 `2018`
 
@@ -65,20 +80,6 @@ Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard*, 6 juin 2019, Un
 `2017`
 **L'enfance dans le roman québécois de l'extrême-contemporain**  
 Midi-causerie organisé par l'AELLFUM, 7 novembre 2017, Université de Montréal.
-
----
-
-## Implications
-
-`2019-`
-***Fémur*, revue étudiante de critique littéraire de l'Université de Montréal**  
-Membre du comité scientifique
-- Site de la [revue](https://revuefemur.com/)
-
-`2019`
-**Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard* et table-ronde *Du texte à la scène***, CRILCQ, Université de Montréal, 6 juin 2019.  
-Co-organisation (scientifique et événementielle)  
-- Programme disponible [en ligne](http://www.crilcq.org/actualites/item/journee-detude-a-lentour-de-lentour-dherve-bouchard/)
 
 ---
 
