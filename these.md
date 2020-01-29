@@ -16,8 +16,8 @@ D'autre part, mon attachement à la question de l'**usage de la langue** et donc
 
 Mis ensemble, ces deux volets me permettront de réfléchir à ces **personnages et voix narratives d'enfants** qui, d'une part, sont résolument *autres*, et qui, d'autre part, se déploient par le biais d'une énonciation spectaculairement mise en scène et dont on peut dire qu'elle est *constitutive de l'identité de l'énonciateur*.
 
-### Corpus littéraire (partiel)
 
+### Corpus littéraire (partiel)
 `1966`
 ***L'avalée des avalés***, Réjean Ducharme  
 `1967`
