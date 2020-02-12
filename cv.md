@@ -50,15 +50,11 @@ Co-organisation (scientifique et événementielle)
 ---
 
 ## Publications
-`2018`
 
+`2018`
 **La petite fille qui aimait trop le langage: les "enfants de langage", ou construire son identité par l'énonciation**  
 *Revue critique de fixxion française contemporaine*, décembre 2018, n°17 (Enfance)
 - Article en [accès libre](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx17.05)
-
-`à venir`
-**Ne pas perdre sa vie à la gagner. Lecture anti-capitaliste d'*Inès Pérée et Inat Tendu* de Réjean Ducharme**  
-*Fémur, revue de critique littéraire*, en révision
 
 ---
 
