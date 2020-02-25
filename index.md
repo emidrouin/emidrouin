@@ -15,11 +15,11 @@ Mes [travaux](cv.md) portent sur l'**enfance dans le roman québécois** contemp
 ---
 
 ### Autres intérêts
-J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique. J'ai, au fil du temps et des [expériences](https://github.com/emidrouin/memoire), développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, sécurité et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
+J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique. J'ai, au fil du temps et des [expériences](https://github.com/emidrouin/memoire), développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, s[é](https://ctf.ageei.uqam.ca/team/38)curité et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
 
 ---
 
-### Communications à venir
+### Communication à venir
 `21 avr.`
 **Le vrai du faux: le mensonge comme une figure de style dans la trilogie de La Bête (David Goudreault)**  
 *Journée d'étude "De Cassandre aux faits alternatifs: Les voix du mensonge et de la vérité en littérature"* organisée par l'AECSEL, 21 avril 2020, UQÀM.
