@@ -15,7 +15,7 @@ Mes [travaux](cv.md) portent sur l'**enfance dans le roman québécois** contemp
 ---
 
 ### Autres intérêts
-J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique. J'ai, au fil du temps et des [expériences](https://github.com/emidrouin/memoire), développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, s[é](https://ctf.ageei.uqam.ca/team/38)curité et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
+J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique. J'ai, au fil du [temps](https://github.com/emidrouin/memoire) et des [expériences](https://ctf.ageei.uqam.ca/team/38), développé des compétences et une réflexion autant techniques (quels outils choisir et comment les utiliser) que critiques (enjeux du libre accès et du logiciel libre, sécurité et meilleures pratiques) par rapport au numérique et à son utilisation, notamment en milieu académique.
 
 ---
 
