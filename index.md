@@ -20,6 +20,6 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 ---
 
 ### Communication à venir
-`21 avr.`
-**Le vrai du faux: le mensonge comme une figure de style dans la trilogie de La Bête (David Goudreault)**  
-*Journée d'étude "De Cassandre aux faits alternatifs: Les voix du mensonge et de la vérité en littérature"* organisée par l'AECSEL, 21 avril 2020, UQÀM.
+`reporté`
+**Le vrai du faux: le mensonge comme une figure de style dans la trilogie de La Bête**  
+*Journée d'étude "De Cassandre aux faits alternatifs: Les voix du mensonge et de la vérité en littérature"* organisée par l'AECSEL, UQÀM. Date à venir.
