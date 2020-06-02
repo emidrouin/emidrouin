@@ -33,6 +33,10 @@ Université de Montréal
 Université de Montréal, *Mineure en études québécoises*  
 - Plans de cours [A18](qcf1050-2019.pdf) & [A19](qcf1050-2019.pdf)
 
+**FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
+Université de Montréal, *Littératures de langue françaises; Enseignement du français au secondaire*  
+- Plan de cours A20 à venir
+
 ---
 
 ## Implications
