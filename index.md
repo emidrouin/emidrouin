@@ -24,6 +24,6 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 **Le vrai du faux: le mensonge comme une figure de style dans la trilogie de La Bête**  
 *Journée d'étude "De Cassandre aux faits alternatifs: Les voix du mensonge et de la vérité en littérature"* organisée par l'AECSEL, UQÀM. Reporté en raison de la pandémie, nouvelle date à venir.
 
-`automne 2020`
-**FRA 2210 - Poétiques modernes et contemporaines** (charge de cours)
+`A 2020`
+**FRA 2210 - Poétiques modernes et contemporaines** (charge de cours)  
 Corpus et plan de cours à venir
