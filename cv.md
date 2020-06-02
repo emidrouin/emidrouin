@@ -28,11 +28,12 @@ Université de Montréal
 
 ## Enseignement
 
-`2018-`
+`2018, 2019`
 **QCF 1050 - Introduction au Québec** (chargée de cours)  
 Université de Montréal, *Mineure en études québécoises*  
 - Plans de cours [A18](qcf1050-2019.pdf) & [A19](qcf1050-2019.pdf)
 
+`2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
 Université de Montréal, *Littératures de langue françaises; Enseignement du français au secondaire*  
 - Plan de cours A20 à venir
