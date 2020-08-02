@@ -36,7 +36,7 @@ Université de Montréal, *Mineure en études québécoises*
 `2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
 Université de Montréal, *Littératures de langue françaises*
-- Plan de cours A20 à venir
+- [Plan de cours](fra2210-2020.pdf)
 
 ---
 

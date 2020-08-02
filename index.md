@@ -23,4 +23,4 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 `A 2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (charge de cours)  
-Corpus et plan de cours à venir
+[Plan de cours](fra2210-2020.pdf)
