@@ -23,8 +23,6 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 `2021`
 **Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations*** (co-direction du numéro)  
-[Appel à propositions](https://revuefemur.com/index.php/2020/10/19/appel-de-textes-n-3-la-lecture-pratiques-figures-et-representations/)
-
 
 `A 2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (charge de cours)  
