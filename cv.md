@@ -41,20 +41,29 @@ Université de Montréal, *Mineure en études québécoises*
 ---
 
 ## Implications
-
-`2019-`
+`depuis 2019`
 ***Fémur*, revue étudiante de critique littéraire de l'Université de Montréal**  
 Membre du comité scientifique
 - Site de la [revue](https://revuefemur.com/)
 
+`depuis 2021`
+***VocUM*: colloque multidisciplinaire sur le langage**  
+Membre du comité organisateur
+- Site du [colloque](https://vocum.ca/)
+
 `2019`
 **Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard* et table-ronde *Du texte à la scène***, CRILCQ, Université de Montréal, 6 juin 2019.  
-Co-organisation (scientifique et événementielle)  
+Co-organisation (scientifique et événementielle)
 - Programme disponible [en ligne](http://www.crilcq.org/actualites/item/journee-detude-a-lentour-de-lentour-dherve-bouchard/)
 
 ---
 
 ## Publications
+
+`2021`
+**Écrire le drame en silence. Le passage du temps et des lieux dans la tétralogie de Sylvie Drapeau**  
+dans Gilles Dupuis, Klaus-Dieter Ertler et Yvonne Völkl (dir.), *À la carte. Le roman québécois (2015-2020)*, Frankfurt am Main, Peter Lang, 2021.  
+ISBN: 978-3-631-83877-8
 
 `2018`
 **La petite fille qui aimait trop le langage: les "enfants de langage", ou construire son identité par l'énonciation**  
@@ -64,6 +73,10 @@ Co-organisation (scientifique et événementielle)
 ---
 
 ## Communications
+
+`2021`
+**Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano**  
+Colloque ADELFIES: *Aménager la liste*, 18-19 mars 2021, McGill (en ligne).
 
 `2019`
 **Le 'mot d'heurque' et les 'coulements': l'expérience de l'altérité chez l'enfant Mailloux**  
