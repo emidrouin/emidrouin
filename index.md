@@ -13,7 +13,7 @@ Je suis **doctorante** au Département des littératures de langue française à
 Mes [travaux](cv.md) portent sur l'**enfance dans le roman québécois** contemporain, et je m'intéresse particulièrement au **rapport à la langue** et à l'**usage du langage** dans la littérature, dans une perspective d'analyse du discours dans la narration littéraire. Mes [recherches doctorales](these.md) portent sur l'énonciation à titre de moteur de l'identité *autre* de plusieurs enfants du roman québécois.
 
 
-J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique et les enjeux qu'il convoque en milieu académique: choix et utilisation des outils et des formats, libre accès et logiciel libre.
+J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique et les enjeux qu'il convoque en milieu académique: choix et utilisation des outils et des formats, notamment pour la [rédaction académique](https://github.com/emidrouin/memoire), libre accès et logiciel libre.
 
 ---
 
