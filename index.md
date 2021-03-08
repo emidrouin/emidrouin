@@ -24,7 +24,7 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 Chapitre: *Écrire le drame en silence. Le passage du temps et des lieux dans la tétralogie de Sylvie Drapeau*.  
 
 `mars 2021`
-[**Colloque ADELFIES: *Aménager la liste***](http://amenager-la-liste.com/), McGill (en ligne)
+[**Colloque ADELFIES: *Aménager la liste***](http://amenager-la-liste.com/), McGill (en ligne)  
 Communication: *Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano*  
 
 `à venir`
