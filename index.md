@@ -25,7 +25,7 @@ Chapitre: *Écrire le drame en silence. Le passage du temps et des lieux dans la
 
 `mars 2021`
 [**Colloque ADELFIES: *Aménager la liste***](http://amenager-la-liste.com/), McGill (en ligne)  
-Communication: *Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano*  
+Communication: *Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano*, 18 mars.  
 
 `à venir`
 **Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations*** (co-direction du numéro)  

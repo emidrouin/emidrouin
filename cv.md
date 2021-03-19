@@ -76,7 +76,7 @@ ISBN: 978-3-631-83877-8
 
 `2021`
 **Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano**  
-Colloque ADELFIES: *Aménager la liste*, 18-19 mars 2021, McGill (en ligne).
+Colloque ADELFIES: *Aménager la liste*, 18-19 mars 2021, McGill (en ligne). [Site web du colloque](http://amenager-la-liste.com/)
 
 `2019`
 **Le 'mot d'heurque' et les 'coulements': l'expérience de l'altérité chez l'enfant Mailloux**  
