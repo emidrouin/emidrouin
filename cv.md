@@ -28,6 +28,11 @@ Université de Montréal
 
 ## Enseignement
 
+`2021`
+**FRA 2181 - Roman moderne et contemporain** (chargée de cours)  
+Université de Montréal, *Littératures de langue françaises*
+- [Plan de cours](fra2210-2020.pdf)
+
 `2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
 Université de Montréal, *Littératures de langue françaises*
@@ -58,7 +63,11 @@ Co-organisation (scientifique et événementielle)
 
 ---
 
-## Publications
+## Publications (sélection)
+
+`2021`
+**Le réécrivain comme herméneute. Relire et réécrire *La Scouine***  
+dans *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), à venir.  
 
 `2021`
 **Écrire le drame en silence. Le passage du temps et des lieux dans la tétralogie de Sylvie Drapeau**  

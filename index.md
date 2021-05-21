@@ -17,15 +17,15 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ---
 
-## Maintenant
+## Activités récentes
+
+`à venir`
+**Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations***  
+Co-direction du numéro  
+Article: *Le réécrivain comme herméneute. Relire et réécrire *La Scouine**
 
 `fév. 2021`
 **À la carte. Le roman québécois (2015-2020)**, ouvrage collectif.  
 Chapitre: *Écrire le drame en silence. Le passage du temps et des lieux dans la tétralogie de Sylvie Drapeau*.  
 
-`mars 2021`
-[**Colloque ADELFIES: *Aménager la liste***](http://amenager-la-liste.com/), McGill (en ligne)  
-Communication: *Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano*, 18 mars.  
 
-`à venir`
-**Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations*** (co-direction du numéro)  
