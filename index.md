@@ -22,7 +22,7 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 `à venir`
 **Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations***  
 Co-direction du numéro  
-Article: *Le réécrivain comme herméneute. Relire et réécrire *La Scouine**
+Article: *Le réécrivain comme herméneute. Relire et réécrire 'La Scouine'*
 
 `fév. 2021`
 **À la carte. Le roman québécois (2015-2020)**, ouvrage collectif.  
