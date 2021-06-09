@@ -19,10 +19,10 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ## Activités récentes
 
-`à venir`
+`juin 2021`
 **Revue Fémur, n° 3. *La lecture: Pratiques, figures et représentations***  
-Co-direction du numéro  
-Article: *Le réécrivain comme herméneute. Relire et réécrire 'La Scouine'*
+Co-direction du [numéro](https://revuefemur.com/index.php/2021/06/06/la-lecture-pratiques-figures-et-representations/)  
+Article: [*Le réécrivain comme herméneute. Relire et réécrire 'La Scouine'*](https://revuefemur.com/index.php/2021/06/06/le-reecrivain-comme-hermeneute/)
 
 `fév. 2021`
 **À la carte. Le roman québécois (2015-2020)**, ouvrage collectif.  

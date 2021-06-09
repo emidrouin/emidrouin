@@ -67,7 +67,8 @@ Co-organisation (scientifique et événementielle)
 
 `2021`
 **Le réécrivain comme herméneute. Relire et réécrire *La Scouine***  
-dans *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), à venir.  
+dans *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), juin 2021.
+- Article en [accès libre](https://revuefemur.com/index.php/2021/06/06/le-reecrivain-comme-hermeneute/)  
 
 `2021`
 **Écrire le drame en silence. Le passage du temps et des lieux dans la tétralogie de Sylvie Drapeau**  
