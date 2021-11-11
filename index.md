@@ -17,9 +17,11 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ---
 ## À venir
-`18 au 20 novembre`
+`18-20 nov.`
 **Colloque VocUM: *Langage et espace***  
 Membre du comité organisateur et présidente de séance. [Programme](https://vocum.ca/vocum-2021-langage-et-espace/programme/)
+
+---
 
 ## Activités récentes
 `juin 2021`
