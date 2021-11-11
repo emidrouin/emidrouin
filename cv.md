@@ -31,7 +31,7 @@ Université de Montréal
 `2021`
 **FRA 2181 - Roman moderne et contemporain** (chargée de cours)  
 Université de Montréal, *Littératures de langue françaises*
-- Plan de cours à venir
+- [Plan de cours](fra2181-2021.pdf)
 
 `2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
@@ -67,7 +67,7 @@ Co-organisation (scientifique et événementielle)
 
 `2021`
 **Le réécrivain comme herméneute. Relire et réécrire *La Scouine***  
-dans *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), juin 2021.
+*Fémur*, n° 3 (La lecture: pratiques, figures et représentations), juin 2021.
 - Article en [accès libre](https://revuefemur.com/index.php/2021/06/06/le-reecrivain-comme-hermeneute/)  
 
 `2021`
@@ -83,6 +83,10 @@ dans Gilles Dupuis, Klaus-Dieter Ertler et Yvonne Völkl (dir.), *À la carte. L
 ---
 
 ## Communications
+
+`2021`
+**Du *je* qui résiste: l'alternance pronominale et le glissement onomastique dans *Jimmy* de Jacques Poulin**  
+*Colloque Jeunes chercheurs / Emerging Scholars Colloquium*, ACQS (American Council for Quebec Studies), 2 octobre 2021, en ligne.
 
 `2021`
 **Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano**  
