@@ -30,12 +30,12 @@ Université de Montréal
 
 `2021`
 **FRA 2181 - Roman moderne et contemporain** (chargée de cours)  
-Université de Montréal, *Littératures de langue françaises*
+Université de Montréal, *Littératures de langue française*
 - [Plan de cours](fra2181-2021.pdf)
 
 `2020`
 **FRA 2210 - Poétiques modernes et contemporaines** (chargée de cours)  
-Université de Montréal, *Littératures de langue françaises*
+Université de Montréal, *Littératures de langue française*
 - [Plan de cours](fra2210-2020.pdf)
 
 `2018, 2019`
