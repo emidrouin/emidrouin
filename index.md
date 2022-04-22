@@ -21,5 +21,5 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 `sept.`
 Communication lors du colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 mai 2022 à l'Université du Québec à Montréal
 
-[CV complet](cv.md)
+[CV complet](cv.md); [Publications et communications](publi-comm.md)
 

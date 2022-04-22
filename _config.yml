@@ -22,3 +22,5 @@ nav:
    link: "these.html"
  - name: "CV"
    link: "cv.html"
+ - name: "Publications"
+   link: "publi-comm.html"
