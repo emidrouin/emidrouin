@@ -4,6 +4,11 @@ layout: default
 
 ## Publications
 
+`2022`
+**Inventorier l'archive. La fonction mémorielle de la description de photographies chez Perec et Modiano**  
+*Verbatim*, n° 2 (Aménager la liste), mai 2022.
+- Article en [accès libre](http://www.revueverbatim.ca/numero2/drouin)  
+
 `2021`
 **Le réécrivain comme herméneute. Relire et réécrire *La Scouine***  
 *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), juin 2021.

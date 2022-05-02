@@ -19,7 +19,15 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ### Activités à venir
 `sept.`
-Communication lors du colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 mai 2022 à l'Université du Québec à Montréal
+Communication lors du colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 23 septembre 2022 à l'Université du Québec à Montréal.
+
+---
+
+### Publications récentes
+`2022`
+**Inventorier l'archive. La fonction mémorielle de la description de photographies chez Perec et Modiano**  
+*Verbatim*, n° 2 (Aménager la liste), mai 2022.
+- Article en [accès libre](http://www.revueverbatim.ca/numero2/drouin)  
 
 [CV complet](cv.md); [Publications et communications](publi-comm.md)
 
