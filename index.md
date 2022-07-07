@@ -25,6 +25,11 @@ Communication lors du colloque *Le jardin dévasté, les bouquets de la colère:
 
 ### Publications récentes
 `2022`
+**Ne pas perdre sa vie à la gagner. *Ines Pérée et Inat Tendu* ou la critique des aliénations**  
+*Fémur*, n° 5 (L'argent), juillet 2022.
+- Article en [accès libre](https://revuefemur.com/index.php/2022/06/02/ne-pas-perdre-sa-vie-a-la-gagner-lecture-anti-capitaliste-dines-peree-et-inat-tendu-de-rejean-ducharme/)  
+
+`2022`
 **Inventorier l'archive. La fonction mémorielle de la description de photographies chez Perec et Modiano**  
 *Verbatim*, n° 2 (Aménager la liste), mai 2022.
 - Article en [accès libre](http://www.revueverbatim.ca/numero2/drouin)  
