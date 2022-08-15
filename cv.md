@@ -47,15 +47,15 @@ Université de Montréal, *Mineure en études québécoises*
 
 ## Implications
 
-`depuis 2019`
-***Fémur*, revue étudiante de critique littéraire de l'Université de Montréal**  
-Membre du comité scientifique
-- Site de la [revue](https://revuefemur.com/)
-
 `depuis 2021`
 ***VocUM*: colloque multidisciplinaire sur le langage**  
 Membre du comité organisateur
 - Site du [colloque](https://vocum.ca/)
+
+`2019-2022`
+***Fémur*, revue étudiante de critique littéraire de l'Université de Montréal**  
+Membre du comité scientifique
+- Site de la [revue](https://revuefemur.com/)
 
 `2019`
 **Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard* et table-ronde *Du texte à la scène***, CRILCQ, Université de Montréal, 6 juin 2019.  
