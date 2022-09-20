@@ -17,12 +17,6 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ---
 
-### Activités à venir
-`sept.`
-Communication lors du colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 23 septembre 2022 à l'Université du Québec à Montréal.
-
----
-
 ### Publications récentes
 `2022`
 **Ne pas perdre sa vie à la gagner. *Ines Pérée et Inat Tendu* ou la critique des aliénations**  
