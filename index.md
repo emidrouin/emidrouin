@@ -20,9 +20,7 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 ### Activités à venir
 
 `2023`
-**Le personnage palimpseste: de la construction du personnage romanesque dans *Oscar de Profundis* et *Querelle de Roberval***
-Journée d'étude *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 janvier 2023, Université du Québec à Montréal.
-
+**Le personnage palimpseste: de la construction du personnage romanesque dans *Oscar de Profundis* et *Querelle de Roberval***, communication dans le cadre de la journée d'étude *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 janvier 2023, Université du Québec à Montréal.
 - [Programme complet](https://crilcq.org/activites/3846/)
 
 ---
