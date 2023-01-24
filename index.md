@@ -17,16 +17,12 @@ J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une gra
 
 ---
 
-### Publications récentes
-`2022`
-**Ne pas perdre sa vie à la gagner. *Ines Pérée et Inat Tendu* ou la critique des aliénations**  
-*Fémur*, n° 5 (L'argent), juillet 2022.
-- Article en [accès libre](https://revuefemur.com/index.php/2022/06/02/ne-pas-perdre-sa-vie-a-la-gagner-lecture-anti-capitaliste-dines-peree-et-inat-tendu-de-rejean-ducharme/)  
+### Activités à venir
 
-`2022`
-**Inventorier l'archive. La fonction mémorielle de la description de photographies chez Perec et Modiano**  
-*Verbatim*, n° 2 (Aménager la liste), mai 2022.
-- Article en [accès libre](http://www.revueverbatim.ca/numero2/drouin)  
+`2023`
+**Le personnage palimpseste: de la construction du personnage romanesque dans *Oscar de Profundis* et *Querelle de Roberval***
+Journée d'étude *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 janvier 2023, Université du Québec à Montréal.
+- [Programme complet](https://crilcq.org/activites/3846/)
 
 [CV complet](cv.md); [Publications et communications](publi-comm.md)
 
