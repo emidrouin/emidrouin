@@ -49,7 +49,7 @@ Université de Montréal, *Mineure en études québécoises*
 
 `depuis 2021`
 ***VocUM*: colloque multidisciplinaire sur le langage**  
-Membre du comité organisateur
+Membre du comité organisateur (depuis 2021) et présidente (depuis 2023)
 - Site du [colloque](https://vocum.ca/)
 
 `2019-2022`

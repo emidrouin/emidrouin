@@ -33,6 +33,10 @@ dans Gilles Dupuis, Klaus-Dieter Ertler et Yvonne Völkl (dir.), *À la carte. L
 
 ## Communications
 
+`2023`
+**Le personnage palimpseste: de la construction du personnage romanesque dans *Oscar de Profundis* et *Querelle de Roberval***  
+Journée d'étude *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 janvier 2023, Université du Québec à Montréal.
+
 `2021`
 **Du *je* qui résiste: l'alternance pronominale et le glissement onomastique dans *Jimmy* de Jacques Poulin**  
 *Colloque Jeunes chercheurs / Emerging Scholars Colloquium*, ACQS (American Council for Quebec Studies), 2 octobre 2021, en ligne.
