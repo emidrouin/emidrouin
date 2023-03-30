@@ -6,7 +6,7 @@ layout: default
 
 `2023`
 **Récit d’héritage, de transmission et de passation: l’expérience corporelle et la construction identitaire dans *Le corps des bêtes***  
-*@nalyses*, vol. 17, n° 1, hiver 2023, p. 49-59.
+*@nalyses*, vol. 17, n° 1, hiver 2023.
 - Article disponible sur [Érudit](https://www.erudit.org/fr/revues/analyses/2023-v17-n1-analyses07763/1097234ar/)  
 
 
@@ -32,7 +32,7 @@ dans Gilles Dupuis, Klaus-Dieter Ertler et Yvonne Völkl (dir.), *À la carte. L
 
 `2018`
 **La petite fille qui aimait trop le langage: les "enfants de langage", ou construire son identité par l'énonciation**  
-*Revue critique de fixxion française contemporaine*, décembre 2018, n°17 (Enfance)
+*Revue critique de fixxion française contemporaine*, n°17 (Enfance), décembre 2018.
 - Article en [accès libre](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx17.05)
 
 ---
@@ -49,7 +49,7 @@ Colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de
 
 `2021`
 **Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano**  
-Colloque ADELFIES: *Aménager la liste*, McGill (en ligne), 18-19 mars 2021.
+Colloque ADELFIES: *Aménager la liste*, Université McGill (Montréal), en ligne, 18-19 mars 2021.
 
 `2019`
 **Le 'mot d'heurque' et les 'coulements': l'expérience de l'altérité chez l'enfant Mailloux**  
