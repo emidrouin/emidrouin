@@ -16,6 +16,9 @@ Mes [travaux](publi-comm.md) portent sur l'**enfance dans le roman québécois**
 J'ai également, sans avoir choisi d'en faire l'objet de mes recherches, une grande curiosité pour le numérique et les enjeux qu'il convoque en milieu académique: choix et utilisation des outils et des formats, notamment pour la [rédaction académique](https://github.com/emidrouin/memoire), libre accès et logiciel libre.
 
 ---
+### Publications récentes
 
-[CV complet](cv.md); [Publications et communications](publi-comm.md)
-
+`2023`
+**Récit d’héritage, de transmission et de passation: l’expérience corporelle et la construction identitaire dans *Le corps des bêtes***  
+*@nalyses*, vol. 17, n° 1, hiver 2023, p. 49-59.
+- Résumé et article disponibles sur [Érudit](https://www.erudit.org/fr/revues/analyses/2023-v17-n1-analyses07763/1097234ar/)  

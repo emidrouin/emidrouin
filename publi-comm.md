@@ -4,6 +4,12 @@ layout: default
 
 ## Publications
 
+`2023`
+**Récit d’héritage, de transmission et de passation: l’expérience corporelle et la construction identitaire dans *Le corps des bêtes***  
+*@nalyses*, vol. 17, n° 1, hiver 2023, p. 49-59.
+- Article disponible sur [Érudit](https://www.erudit.org/fr/revues/analyses/2023-v17-n1-analyses07763/1097234ar/)  
+
+
 `2022`
 **Ne pas perdre sa vie à la gagner. *Ines Pérée et Inat Tendu* ou la critique des aliénations**  
 *Fémur*, n° 5 (L'argent), juillet 2022.
@@ -15,7 +21,7 @@ layout: default
 - Article en [accès libre](http://www.revueverbatim.ca/numero2/drouin)  
 
 `2021`
-**Le réécrivain comme herméneute. Relire et réécrire *La Scouine***  
+**Le réécrivain comme herméneute: relire et réécrire *La Scouine***  
 *Fémur*, n° 3 (La lecture: pratiques, figures et représentations), juin 2021.
 - Article en [accès libre](https://revuefemur.com/index.php/2021/06/06/le-reecrivain-comme-hermeneute/)  
 
@@ -35,31 +41,31 @@ dans Gilles Dupuis, Klaus-Dieter Ertler et Yvonne Völkl (dir.), *À la carte. L
 
 `2023`
 **Le personnage palimpseste: de la construction du personnage romanesque dans *Oscar de Profundis* et *Querelle de Roberval***  
-Colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, 27 janvier 2023, Université du Québec à Montréal.
+Colloque *Le jardin dévasté, les bouquets de la colère: autour de l'oeuvre de Catherine Mavrikakis*, Université du Québec à Montréal, 27 janvier 2023.
 
 `2021`
 **Du *je* qui résiste: l'alternance pronominale et le glissement onomastique dans *Jimmy* de Jacques Poulin**  
-*Colloque Jeunes chercheurs / Emerging Scholars Colloquium*, ACQS (American Council for Quebec Studies), 2 octobre 2021, en ligne.
+*Colloque Jeunes chercheurs / Emerging Scholars Colloquium* de l'ACQS (American Council for Quebec Studies), en ligne, 2 octobre 2021.
 
 `2021`
 **Inventorier l'archive pour mettre l'oubli en marge: la fonction mémorielle de la description de documents chez Perec et Modiano**  
-Colloque ADELFIES: *Aménager la liste*, 18-19 mars 2021, McGill (en ligne).
+Colloque ADELFIES: *Aménager la liste*, McGill (en ligne), 18-19 mars 2021.
 
 `2019`
 **Le 'mot d'heurque' et les 'coulements': l'expérience de l'altérité chez l'enfant Mailloux**  
-Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard*, 6 juin 2019, Université de Montréal.
+Journée d'étude *'À l'entour de l'entour' d'Hervé Bouchard*, Université de Montréal, 6 juin 2019.
 
 `2018`
 **Viv(r)e la marge: le ratage comme éthique de vie**  
-*Rendez-vous de la recherche émergente* du CRILCQ, 22-23 mars 2018, Université Laval (Québec).
+*Rendez-vous de la recherche émergente* du CRILCQ, Université Laval (Québec), 22-23 mars 2018.
 
 `2018`
 **L'immaturité comme refuge: l'enfance en crise dans le roman québécois de l'extrême-contemporain**  
-*Conférence Equinoxes 2018: Enfance.s*, 16-17 mars 2018, Université Brown (Providence, Rhode Island).
+*Conférence Equinoxes 2018: Enfance.s*, Université Brown (Providence, Rhode Island), 16-17 mars 2018.
 
 `2017`
 **L'enfance dans le roman québécois de l'extrême-contemporain**  
-Midi-causerie organisé par l'AELLFUM, 7 novembre 2017, Université de Montréal.
+Midi-causerie organisé par l'AELLFUM, Université de Montréal, 7 novembre 2017.
 
 ---
 
