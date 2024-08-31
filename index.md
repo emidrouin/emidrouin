@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="emilie.jpg" alt="Emilie Drouin">
 
 ## Présentation
-Je suis **doctorante** au Département des littératures de langue française à l'Université de Montréal, sous la supervision de Martine-Emmanuelle Lapointe. Je suis membre étudiante du [CRILCQ](http://www.crilcq.org/accueil/).
+Je suis [**doctorante** au Département des littératures de langue française à l'Université de Montréal](https://littfra.umontreal.ca/repertoire-departement/corps-professoral/professeur/in/in37063/sg/Emilie%20Drouin/), sous la supervision de Martine-Emmanuelle Lapointe. Je suis membre étudiante du [CRILCQ](http://www.crilcq.org/accueil/).
 
 ---
 

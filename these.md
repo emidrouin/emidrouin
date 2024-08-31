@@ -18,7 +18,7 @@ Mis ensemble, ces deux volets me permettront de réfléchir à ces **personnages
 
 ---
 
-### Corpus littéraire (partiel)
+### Corpus littéraire
 
 `1966`
 ***L'avalée des avalés***, Réjean Ducharme  
@@ -30,14 +30,26 @@ Mis ensemble, ces deux volets me permettront de réfléchir à ces **personnages
 ***Jimmy***, Jacques Poulin  
 `1970`
 ***L'amélanchier***, Jacques Ferron  
+`1986`
+***Le souffle de l'harmattan***, Sylvain Trudel  
+`1997`
+***C'est pas moi, je le jure!***, Bruno Hébert  
 `1998`
 ***La petite fille qui aimait trop les allumettes***, Gaétan Soucy  
+`1998`
+***Comme enfant je suis cuit***, Jean-François Beauchemin  
+`2000`
+***Alice court avec René***, Bruno Hébert  
+`2001`
+***Du mercure sous la langue***, Sylvain Trudel  
 `2002`
 ***Mailloux: histoires de novembre et de juin***, Hervé Bouchard  
 `2010`
 ***Tiroir n°24***, Michael Delisle  
-`2016`
-***À l'abri des hommes et des choses***, Stéphanie Boulay  
+`2010`
+***La petite et le vieux***, Marie-Renée Lavoie  
+`2014`
+***Numéro six***, Hervé Bouchard  
 `2017`
 ***Le corps des bêtes***, Audrée Wilhelmy  
 
